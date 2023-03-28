@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+.cal_btn{
+  width: 35px;
+  height: 35px;
+  border-radius: 5px;
+  margin: 5px;
+  color: white;
+}
+.btn_warning{
+  background-color: orange;
+}
+.btn_success{
+  background-color: green;
+}
+
+.cal_clear_btn{
+  width: 200px;
+  height: 32px;
+  border-radius: 5px;
+  margin: 5px;
+  color: white;
+}
+.btn_danger{
+  background-color: red;
+}
+
+.cal_input{
+  width: 200px;
+  border-radius: 5px;
+}
